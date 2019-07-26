@@ -1,0 +1,23 @@
+{
+  "name": "notificationserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnair2001/notificationserver.git"
+  },
+  "author": "bnair2001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnair2001/notificationserver/issues"
+  },
+  "homepage": "https://github.com/bnair2001/notificationserver#readme",
+  "dependencies": {
+    "firebase-admin": "^8.3.0",
+    "request": "^2.88.0"
+  }
+}
