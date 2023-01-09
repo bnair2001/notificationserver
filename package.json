@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bnair2001/notificationserver#readme",
   "dependencies": {
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^11.4.1",
     "request": "^2.88.0"
   }
 }
